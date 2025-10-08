@@ -1,6 +1,6 @@
 # Taller: Ejercicios y Ejemplos en Python con NumPy
 
-[Autor: Escribe tu nombre aquí]
+Jose Enrique Alvarez Lara
 
 ## Descripción
 
