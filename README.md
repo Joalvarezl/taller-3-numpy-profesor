@@ -1,10 +1,16 @@
 # Taller: Ejercicios y Ejemplos en Python con NumPy
 
-Jose Enrique Alvarez Lara
+###Jose Enrique Alvarez Lara
 
 ## Descripción
 
-[Escribe la descripción del repositorio aquí]
+Este repositorio contiene un cuaderno interactivo en **Python** desarrollado como parte del taller de **Ejercicios y Ejemplos en NumPy**.  
+
+El cuaderno tiene como propósito reforzar habilidades en programación científica mediante:  
+- La implementación de ejemplos prácticos tomados del material de referencia.  
+- La solución de ejercicios propuestos, explicando los resultados y razonamientos.  
+- El uso de visualizaciones (cuando aplica) para una mejor comprensión de los conceptos.  
+
 
 ## Nivel de uso de herramientas de inteligencia artificial
 
