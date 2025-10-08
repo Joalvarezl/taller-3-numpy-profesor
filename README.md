@@ -8,24 +8,25 @@ Jose Enrique Alvarez Lara
 
 ## Nivel de uso de herramientas de inteligencia artificial
 
-### Clasificación: [SELECCIONA UNA OPCION]
-- **Sin uso de IA**: No se utilizaron herramientas de inteligencia artificial en el desarrollo de este proyecto
-- **Bajo**: Uso limitado de herramientas de IA para tareas específicas
+### Clasificación:
 - **Medio**: Uso moderado de herramientas de IA para asistencia en el desarrollo
-- **Alto**: Uso extensivo de herramientas de IA para la generación y optimización del código
+Durante el desarrollo de este proyecto se hizo un uso moderado de herramientas de inteligencia artificial con los siguientes fines:
+	•	Generación de ejemplos y organización del cuaderno.
+	•	Revisión de fragmentos de código y sugerencias de optimización.
+	•	Estructuración del README y documentación.
 
 ### Herramientas utilizadas (si aplica)
-[Si seleccionaste "Bajo", "Medio" o "Alto", describe las herramientas específicas utilizadas]
+ChatGPT (OpenAI)
 
 #### Ejemplos de prompts utilizados:
-[Incluye ejemplos específicos de los prompts que utilizaste con cada herramienta]
+
 
 **Ejemplo para generación de código:**
 ```
-Prompt: "Crea un archivo Python que demuestre el uso de numpy, pandas y matplotlib para análisis de datos básicos"
+Prompt: "Crea un ejemplo en Python que utilice NumPy para operaciones de álgebra lineal"
 ```
 
 **Ejemplo para optimización:**
 ```
-Prompt: "Revisa este código y sugiere mejoras para hacerlo más eficiente y legible"
+Prompt: "Revisa este código y sugiere cómo reemplazar los bucles con funciones vectorizadas de NumPy"
 ```
